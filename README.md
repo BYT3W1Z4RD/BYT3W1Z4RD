@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+</div>
+   <p align="center">
+      <a href="https://github.com/BYT3W1Z4RD?tab=followers">
+         <img alt="followers" title="Follow My Github" src="https://custom-icon-badges.demolab.com/github/followers/BYT3W1Z4RD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/BYT3W1Z4RD?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/BYT3W1Z4RD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 # 🖥️ Byte Wizard
 
 **`Digital Magician (Developer/Programmer/Hacker)`**
@@ -5,13 +15,6 @@
 I'm an indie full-stack developer and penetration tester building my what my imagination designs to attack, protect and experiment in the digital space. All coding projects are built by me alone from nothing or by rewriting others creations and merging them into my own.
 #
 Я - независимый разработчик на все стеке и специалист по пенетрационному тестированию, строю то, что представляет мое воображение, чтобы атаковать, защищать и экспериментировать в цифровом пространстве. Все проекты кодинга созданы мной одним из нуля или путем переписывания созданий других и их слияния с моими.
-
-   <p align="left">
-      <a href="https://github.com/BYT3W1Z4RD?tab=followers">
-         <img alt="followers" title="Follow My Github" src="https://custom-icon-badges.demolab.com/github/followers/BYT3W1Z4RD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/BYT3W1Z4RD?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/BYT3W1Z4RD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
