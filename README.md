@@ -8,7 +8,7 @@
          <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/BYT3W1Z4RD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-# 🖥️ Byte Wizard
+### 🖥️ Byte Wizard
 
 **`Digital Magician (Developer/Programmer/Hacker)`**
 
@@ -20,6 +20,7 @@ I'm an indie full-stack developer and penetration tester building my what my ima
 
 ### 🧰 Languages and Tools
 
+<h1>
 <img align="left" alt="C#" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -32,8 +33,9 @@ I'm an indie full-stack developer and penetration tester building my what my ima
 <img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </h1>
 
-
+---
 
 ### 📁 Latest GitHub Projects
 
