@@ -31,9 +31,7 @@ I'm an indie full-stack developer and penetration tester building my what my ima
 <img align="left" alt="Linux" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
 #
-
 
 ### 📁 Latest GitHub Projects
 
@@ -45,9 +43,11 @@ I'm an indie full-stack developer and penetration tester building my what my ima
 
 ### 📊 Stats
 
-![Byte Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytewizard&show_icons=true)
+![Byte Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYT3W1Z4RD&show_icons=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BYT3W1Z4RD&border_radius=4.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BYT3W1Z4RD)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BYT3W1Z4RD&border_radius=4.5)
 
 #
 
