@@ -20,6 +20,15 @@
 
 ---
 
+<h3 align="left">📁 Latest Projects:</h3>
+
+![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Kittenware)]
+![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Jstealer)]
+![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-LAN-Worm)]
+![Repo Card 4](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-Drive-Worm)]
+
+---
+
 <details>
  <summary><h3>👨‍💻 Byte Wizard's Coding Journey</h3></summary>
 I started my coding journey as a naive computer science enthusiast while studying in school. I was fascinated by the world of programming and had a burning desire to learn everything I could about it. I dove headfirst into learning scripting languages, programming concepts, Linux systems, and the underlying theories that make it all work. I spent countless hours teaching myself, experimenting with different technologies, and building small projects to test my knowledge. As I progressed in my learning, I set my sights on a bigger goal - to build my own software that would have a positive impact on the world. I was determined to use my newfound skills to make a difference and improve people's lives. However, as I delved deeper into the world of coding, I found myself increasingly drawn to the questionable side of the industry - Hacking and Exploitation. I became obsessed with learning everything there was to know about hacking, from the basics of social engineering to advanced penetration testing    techniques. My desire to excel in this field soon overshadowed my original goal of building software for good. Unfortunately, my curiosity and lack of experience put me in the spotlight of the law for a time. But, I was smart enough to realize the potential consequences of my actions and decided to take a different approach. I knew that my skills and knowledge could be used for good if I pursued them in a legal and ethical manner. So, I decided to focus on learning about Penetration Testing and Malware Development. I honed my skills and eventually built a reputation for my expertise in Post Exploitation and Software Design. With my new-found skills, I got to work on my first big projects that I went on to sell publicly. One of my projects was a private browser that utilised the open-source engine SearX, which I modified to make it as privacy and security-oriented as possible. I also developed a basic remote help tool similar to AnyDesk or TeamViewer, which utilised a modified VNC. However, as I looked back at my journey, I realized that I had always felt selfish in my learning process. I had taught myself over many years of hard work, but I could rarely give back to my community. I think its time I started sharing with the hopes of inspiring others the way I was to pursue knowledge and skills within the ever developing landscape of cyberspace while also trying to educate people on the dangers of abusing such knowledge. Knowledge, is a tool that can be used for good and evil, I plan to provide educational resources whether it be UI design, pentesting, automation or Penetration Testing tools including Post Exploitation Malware. Code is not inherently evil, but how you choose to use it can be. "The law just needs to have one lucky day and your life is over.
@@ -33,7 +42,7 @@ I started my coding journey as a naive computer science enthusiast while studyin
 
 ### 📊 Stats
 
-![Byte Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYT3W1Z4RD&show_icons=true)
+![Byte Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYT3W1Z4RD&show_icons=true&exclude_repo[BYT3W1Z4RD])
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BYT3W1Z4RD)
 
