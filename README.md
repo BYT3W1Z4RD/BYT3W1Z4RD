@@ -22,10 +22,10 @@
 
 <h3 align="left">📁 Latest Projects:</h3>
 
-![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Kittenware)]
-![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Jstealer)]
-![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-LAN-Worm)]
-![Repo Card 4](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-Drive-Worm)]
+![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Kittenware)
+![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Jstealer)
+![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-LAN-Worm)
+![Repo Card 4](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-Drive-Worm)
 
 ---
 
