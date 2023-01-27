@@ -23,8 +23,8 @@
 <h3 align="left">📁 Latest Projects:</h3>
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=qTox-RAT)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Exploit-Wizard)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Jstealer)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Kittenware)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Telegram-Notification-Logger)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-LAN-Worm)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-Drive-Worm)
