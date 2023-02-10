@@ -7,7 +7,6 @@
       <a href="https://github.com/BYT3W1Z4RD?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/BYT3W1Z4RD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=byt3w1z4rd&label=Profile%20views&color=0e75b6&style=flat" alt="byt3w1z4rd" /> </p>
 
 <h1 align="center">🖥️ Byte Wizard</h1>
 <h3 align="center">I'm an indie full-stack developer and penetration tester building what my imagination designs to attack, protect and experiment in the digital space. All coding projects are built by me alone from nothing or by rewriting others creations and merging them into my own.</h3>
