@@ -21,8 +21,8 @@
 
 <h3 align="left">📁 Latest Projects:</h3>
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Exploit-Wizard)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Antivirus-Scanner)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Exploit-Wizard?redirect=https://github.com/BYT3W1Z4RD/Exploit-Wizard)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Antivirus-Scanner?redirect=https://github.com/BYT3W1Z4RD/Antivirus-Scanner)
 
 ---
 
