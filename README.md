@@ -23,12 +23,6 @@
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Exploit-Wizard)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Antivirus-Scanner)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=SharpDrive)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=SharpMail)
-
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-LAN-Worm)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BYT3W1Z4RD&repo=Batch-Drive-Worm)
 
 ---
 
